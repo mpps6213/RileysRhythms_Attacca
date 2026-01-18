@@ -92,12 +92,13 @@ Windows
 powershell
 Copy code
 .\venv\Scripts\Activate
-2. Install dependencies
-bash
+
+### 2. Install dependencies
+```bash
 Copy code
 pip install -r requirements.txt
-3. Run the application
-bash
+### 3. Run the application
+```bash
 Copy code
 python -m streamlit run app.py
 The website will automatically open in your default web browser.
