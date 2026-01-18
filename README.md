@@ -151,6 +151,15 @@ Real-time human–AI interaction
 
 Creative UI/UX driven by emotional intelligence
 
+## AI Assistance & Acknowledgements
+
+This project was developed with the assistance of AI tools for ideation, debugging, and documentation support:
+- ChatGPT (OpenAI) — used for code explanation, documentation drafting, and design guidance
+- Gemini (Google) — used for brainstorming and conceptual refinement
+- GitHub Copilot — used for code suggestions and productivity support
+
+All final implementation decisions, testing, and integration were performed by the project team.
+
 
 ## Notes for Judges 
 Speech recognition works offline
